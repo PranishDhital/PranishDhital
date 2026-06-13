@@ -56,7 +56,7 @@
 
 <div align="center">
   
-<img src="https://streak-stats.demolab.com/?user=Pranish11&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=PranishDhital&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 
 </div>
 
