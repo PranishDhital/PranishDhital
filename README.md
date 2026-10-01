@@ -2,7 +2,7 @@
 
 # Hi there, I'm Pranish Dhital
 
-### Bachelor's Student | Developer in the Making | Gamer
+### Bachelor's Student | Developer in the Making
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Bachelor's+Degree+Student;Always+Learning+New+Things;Let's+Build+Something+Amazing!" alt="Typing SVG" />
 
