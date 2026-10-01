@@ -69,25 +69,25 @@ const pranish = {
 
 <td width="50%">
 
-### Project One
+### PDLex
 
-A short description of what this project does and why you built it.
+A small C++ prototype for a custom `.pd` language. It started as a lexer and grew into a tiny parser and interpreter that reads a file, builds a lightweight AST, and executes basic statements.
 
-**Tech:** Python · JavaScript
+**Tech:** C++
 
-[View Repo](https://github.com/PranishDhital)
+[View Repo](https://github.com/PranishDhital/PDLex)
 
 </td>
 
 <td width="50%">
 
-### Project Two
+### 2D Physics Sandbox
 
-A short description of what this project does and why you built it.
+A simple 2D physics simulation built with SFML and Box2D, made to learn how rigid-body physics and real-time rendering work together.
 
-**Tech:** HTML · CSS · JavaScript
+**Tech:** C++ · SFML · Box2D
 
-[View Repo](https://github.com/PranishDhital)
+[View Repo](https://github.com/PranishDhital/sfml-box2d-physics-sandbox)
 
 </td>
 
@@ -115,7 +115,7 @@ A short description of what this project does and why you built it.
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/F75C7E/PranishDhital" alt="Contribution graph" width="90%"/>
+<img src="https://github-activity-graph.luckylinux.dev/graph?username=PranishDhital&bg_color=0d1117&color=F75C7E&line=F75C7E&point=FFFFFF&area=true&area_color=F75C7E&hide_border=true" alt="Contribution activity graph" width="100%"/>
 
 </div>
 
