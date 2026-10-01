@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi there, I'm Pranish Dhital! 👋
+# Hi there, I'm Pranish Dhital
 
-### 🎓 Bachelor's Student | 💻 Developer in the Making | 🎮 Gamer
+### Bachelor's Student | Developer in the Making | Gamer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%8C%9F;Bachelor's+Degree+Student+%F0%9F%8E%93;Always+Learning+New+Things+%F0%9F%9A%80;Let's+Build+Something+Amazing!+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Bachelor's+Degree+Student;Always+Learning+New+Things;Let's+Build+Something+Amazing!" alt="Typing SVG" />
 
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 
@@ -12,14 +12,14 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Currently a Bachelor's Degree student
-- 💻 Passionate about coding and building things
-- 🧠 Learning algorithms, data structures & problem solving
-- 🚀 Building projects to learn by doing
-- 🎮 Gamer in my free time
-- 🌱 Always exploring something new
+- Currently a Bachelor's Degree student
+- Passionate about coding and building things
+- Learning algorithms, data structures and problem solving
+- Building projects to learn by doing
+- Gamer in my free time
+- Always exploring something new
 
 ```typescript
 const pranish = {
@@ -27,13 +27,12 @@ const pranish = {
   education: "Bachelor's Degree Student",
   interests: ["Coding", "Learning", "Gaming"],
   currentlyLearning: ["Web Development", "Data Structures & Algorithms"],
-  funFact: "I debug better after a gaming break 🎮",
 };
 ```
 
 ---
 
-## 🧠 Currently Learning & Exploring
+## Currently Learning & Exploring
 
 <div align="center">
 
@@ -45,7 +44,7 @@ const pranish = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -61,7 +60,7 @@ const pranish = {
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <!-- Replace the placeholders below with your real projects -->
 
@@ -70,25 +69,25 @@ const pranish = {
 
 <td width="50%">
 
-### 🎨 Project One
+### Project One
 
 A short description of what this project does and why you built it.
 
 **Tech:** Python · JavaScript
 
-[🔗 View Repo](https://github.com/PranishDhital)
+[View Repo](https://github.com/PranishDhital)
 
 </td>
 
 <td width="50%">
 
-### 🌐 Project Two
+### Project Two
 
 A short description of what this project does and why you built it.
 
 **Tech:** HTML · CSS · JavaScript
 
-[🔗 View Repo](https://github.com/PranishDhital)
+[View Repo](https://github.com/PranishDhital)
 
 </td>
 
@@ -97,7 +96,7 @@ A short description of what this project does and why you built it.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -112,17 +111,17 @@ A short description of what this project does and why you built it.
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PranishDhital&theme=tokyo-night&hide_border=true" />
+<img src="https://ghchart.rshah.org/F75C7E/PranishDhital" alt="Contribution graph" width="90%"/>
 
 </div>
 
 ---
 
-## 🌐 Let's Connect!
+## Let's Connect
 
 <div align="center">
 
@@ -135,7 +134,7 @@ A short description of what this project does and why you built it.
 
 <div align="center">
 
-### 💭 Random Dev Quote
+### Random Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 
@@ -145,11 +144,9 @@ A short description of what this project does and why you built it.
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b>, so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
+<em><b>I love connecting with different people</b>, so if you want to say <b>hi, I'll be happy to meet you!</b></em>
 
-### Thanks for visiting! 🚀
-
-**Made with 💖 by Pranish Dhital**
+**Thanks for visiting. Made by Pranish Dhital.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=120&section=footer"/>
 
