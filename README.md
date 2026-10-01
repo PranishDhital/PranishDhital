@@ -2,7 +2,7 @@
 
 # Hi there, I'm Pranish Dhital
 
-### Bachelor's Student | Developer in the Making
+### Bachelor's Student | Developer in the Making | Gamer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Bachelor's+Degree+Student;Always+Learning+New+Things;Let's+Build+Something+Amazing!" alt="Typing SVG" />
 
@@ -106,16 +106,6 @@ A simple 2D physics simulation built with SFML and Box2D, made to learn how rigi
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=PranishDhital&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-
-<img src="https://github-activity-graph.luckylinux.dev/graph?username=PranishDhital&bg_color=0d1117&color=F75C7E&line=F75C7E&point=FFFFFF&area=true&area_color=F75C7E&hide_border=true" alt="Contribution activity graph" width="100%"/>
 
 </div>
 
