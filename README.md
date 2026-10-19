@@ -81,13 +81,13 @@ A small C++ prototype for a custom `.pd` language. It started as a lexer and gre
 
 <td width="50%">
 
-### 2D Physics Sandbox
+### PPC
 
-A simple 2D physics simulation built with SFML and Box2D, made to learn how rigid-body physics and real-time rendering work together.
+PD is a small programming language project. Its compiler reads .pd files, parses them, generates x86-64 assembly, and builds a Windows executable.
 
-**Tech:** C++ · SFML · Box2D
+**Tech:** C++ 
 
-[View Repo](https://github.com/PranishDhital/sfml-box2d-physics-sandbox)
+[View Repo](https://github.com/PranishDhital/PPC)
 
 </td>
 
