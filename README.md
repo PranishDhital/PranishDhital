@@ -52,7 +52,7 @@ const pranish = {
 
 <img src="https://skillicons.dev/icons?i=python,js,java,cpp,html,css" />
 
-### Tools & Technologies
+### Tools & Technologiesf
 
 <img src="https://skillicons.dev/icons?i=git,github,nodejs,vscode" />
 
@@ -69,13 +69,13 @@ const pranish = {
 
 <td width="50%">
 
-### PDLex
+### PPI
 
 A small C++ prototype for a custom `.pd` language. It started as a lexer and grew into a tiny parser and interpreter that reads a file, builds a lightweight AST, and executes basic statements.
 
 **Tech:** C++
 
-[View Repo](https://github.com/PranishDhital/PDLex)
+[View Repo](https://github.com/PranishDhital/PPI)
 
 </td>
 
